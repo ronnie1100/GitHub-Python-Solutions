@@ -1,0 +1,3 @@
+The LIDC-IDRI dataset contains lesion annotations from four experienced thoracic radiologists. LIDC-IDRI contains 1,018 low-dose lung CTs from 1010 lung patients.
+Lung cancer remains a prevalent and deadly disease, claiming numerous lives annually. Early detection plays a pivotal role in significantly improving survival rates, by up to 50–70%. Therefore, developing a robust lung cancer detection system holds immense potential to positively impact human survival. Computed tomography (CT) scan images offer invaluable information about lung nodules, and the emergence of machine learning and deep learning 
+techniques has empowered radiologists in their diagnostic tasks.
